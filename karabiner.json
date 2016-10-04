@@ -1,0 +1,13 @@
+{
+    "profiles": [
+        {
+            "name": "Default profile",
+            "selected": true,
+            "simple_modifications": {
+                "caps_lock": "left_control",
+                "left_option": "japanese_eisuu",
+                "right_command": "japanese_kana"
+            }
+        }
+    ]
+}
